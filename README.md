@@ -93,7 +93,7 @@ project-root/
 
 1. **Clone or Extract the Project**
    ```bash
-   cd task-board-app
+   cd TaskFlow
    ```
 
 2. **Install Dependencies**
