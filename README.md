@@ -1,4 +1,4 @@
-# Task FLOW Application
+# Task Flow Application
 
 A modern, feature-rich task management application built with Next.js, React, and Tailwind CSS. This application provides a comprehensive task board with authentication, drag-and-drop functionality, and persistent data storage.
 
