@@ -283,6 +283,3 @@ Built as a modern, production-ready task management application showcasing:
 - TypeScript development
 
 ---
-
-**Last Updated**: February 2026
-**Version**: 1.0.0
